@@ -1,28 +1,32 @@
 # 🚀 Grant & Accelerator Application Tracker 2025
-## For Bangladesh-Based Startups (AI, Web3, Tech)
+## For Global AI, Web3 & Tech Startups
 
-**Location:** Bangladesh, Asia
 **Last Updated:** November 17, 2025
-**Focus Areas:** AI, Web3, Blockchain, Tech Innovation
+**Location:** Remote-friendly (Based in Bangladesh, Asia)
+**Focus:** Building global companies in AI, Web3, Blockchain, Tech Innovation
 
 ---
 
-## 📊 PRIORITY OPPORTUNITIES (Bangladesh Eligible)
+## 📊 CURRENTLY OPEN OPPORTUNITIES
 
-### 🟢 **TIER 1: HIGHEST PRIORITY - Open Now**
+### 🟢 **TIER 1: HIGHEST PRIORITY - Rolling Applications**
+
+These programs accept applications year-round with no specific deadlines. Apply anytime!
 
 ---
 
 #### 1. **Google for Startups Cloud Program**
 **Status:** 🟢 OPEN - Rolling Applications
 **Deadline:** Rolling (3-5 business day response)
-**Bangladesh Eligible:** ✅ YES (Confirmed)
+**Global Eligibility:** ✅ YES (Worldwide, including Bangladesh)
+**Equity:** Non-dilutive (no equity taken)
 
 **Funding/Benefits:**
 - **Start Tier:** Up to $200,000 in Google Cloud credits (2 years)
 - **Scale Tier (AI Focus):** Up to $350,000 in Google Cloud credits (2 years)
-- Additional: Google Workspace, Maps Platform benefits
+- Google Workspace, Maps Platform benefits
 - Mentorship from Google experts
+- Firebase costs covered
 
 **Acceptance Requirements:**
 - **Start Tier:**
@@ -33,591 +37,778 @@
   - Backed with startup equity funding (Seed to Series A)
   - OR common web3 funding sources
 
-**What to Build:**
-- AI-powered SaaS applications
-- Machine learning infrastructure
-- Web3 applications with AI components
-- Cloud-native mobile/web apps
+**What to Build (Global Ideas):**
+1. **AI-powered Developer Tools** - Code completion, debugging assistants
+2. **Multi-language NLP SaaS** - Translation, content generation at scale
+3. **Computer Vision APIs** - Image recognition, video analysis services
+4. **AI Agent Platforms** - No-code AI agent builders
+5. **Web3 Infrastructure** - Node services, indexers, APIs
+6. **Vertical SaaS with AI** - Industry-specific automation (legal, finance, healthcare)
 
-**Niche Ideas for Bangladesh:**
-1. **AI-powered Rickshaw/Transport Optimization** - Route optimization for rideshare
-2. **Bengali NLP Tools** - Language processing for local market
-3. **Agri-Tech AI** - Crop disease detection, yield prediction
-4. **EdTech AI** - Personalized learning for Bengali students
-5. **Healthcare AI** - Telemedicine with AI diagnosis for rural areas
-6. **E-commerce AI** - Product recommendation for local platforms (Daraz, etc.)
+**Why This Matters:**
+- No equity dilution
+- Fast approval (3-5 days)
+- $350K in credits can run AI models for months
+- Access to cutting-edge Google AI tools (Vertex AI, Gemini)
 
 **Feasibility:** ⭐⭐⭐⭐⭐ (5/5)
-- Remote application
+- Fully remote application
 - No relocation required
 - Fast approval process
 - No equity taken
 
 **Application Link:** https://cloud.google.com/startup/apply
 
-**Next Steps:**
-- [ ] Create Google Cloud Billing Account
-- [ ] Prepare pitch deck (2-3 slides)
-- [ ] Document current traction/MVP status
-- [ ] Apply immediately
-
 ---
 
 #### 2. **Ethereum Foundation Ecosystem Support Program (ESP)**
 **Status:** 🟢 OPEN - Rolling Applications
 **Deadline:** Rolling submissions
-**Bangladesh Eligible:** ✅ YES (International builders welcomed)
+**Global Eligibility:** ✅ YES (International builders welcomed)
+**Equity:** Non-dilutive
 
 **Funding:**
-- **Small Grants:** Up to $30,000 USD (seed funding, short-term projects)
-- **Project Grants:** $30,000+ USD (larger scope projects)
+- **Small Grants:** Up to $30,000 USD
+- **Project Grants:** $30,000 - $250,000 USD
 - **Event Sponsorships:** Variable
 
 **Acceptance Requirements:**
 - Builders of any age, origin, identity, or background
 - Focus on Ethereum education, developer onboarding, or ecosystem coordination
-- Preference for underrepresented regions (Bangladesh qualifies!)
-- Open-source projects preferred
+- Preference for underrepresented regions and public goods
+- Open-source projects strongly preferred
 
-**What to Build:**
-1. **Developer Tooling** - Tools to make Ethereum development easier
-2. **Educational Content** - Tutorials, courses in Bengali/English
-3. **Infrastructure** - Nodes, RPC providers, blockchain explorers
-4. **DeFi Applications** - Lending, DEX, staking platforms
-5. **Public Goods** - Open-source libraries, standards
+**What to Build (Global Ideas):**
+1. **Developer Tooling** - Smart contract frameworks, testing libraries, deployment tools
+2. **Layer 2 Infrastructure** - Rollup tooling, bridges, sequencers
+3. **DeFi Protocols** - Novel lending, DEX, derivatives platforms
+4. **Privacy Tools** - ZK-proof libraries, privacy-preserving DApps
+5. **Educational Platforms** - Interactive Solidity courses, Web3 bootcamps
+6. **Security Tools** - Auditing frameworks, formal verification tools
+7. **Data Infrastructure** - Blockchain explorers, indexers, analytics platforms
 
-**Niche Ideas for Bangladesh:**
-1. **Bengali Ethereum Education Platform** - Smart contract tutorials in Bengali
-2. **Remittance DApp** - Low-fee cross-border payments (huge for BD workers abroad)
-3. **Garment Industry Supply Chain** - Blockchain tracking for RMG sector
-4. **Freelancer Payment Gateway** - Web3 payments for BD freelancers
-5. **Microloan DeFi Protocol** - DeFi for unbanked population
+**Why This Matters:**
+- One of the largest grant programs in crypto
+- Strong track record of funding innovative projects
+- No equity taken
+- Can fund both research and implementation
 
 **Feasibility:** ⭐⭐⭐⭐⭐ (5/5)
 - No equity taken
 - Remote participation
-- Strong preference for underrepresented regions
-- Supports public goods/education
+- Prefers underrepresented regions (advantage for Bangladesh)
+- Supports public goods
 
 **Application Link:** https://esp.ethereum.foundation/
 
-**Next Steps:**
-- [ ] Identify specific problem to solve
-- [ ] Create project proposal (PDF format)
-- [ ] Include budget breakdown
-- [ ] Prepare timeline (3-12 months)
-- [ ] Submit application
-
 ---
 
-#### 3. **Base Builder Grants (Coinbase)**
-**Status:** 🟢 OPEN - Rolling Nominations
-**Deadline:** Rolling (nomination-based)
-**Bangladesh Eligible:** ✅ YES (International)
+#### 3. **Arbitrum Foundation Grants**
+**Status:** 🟢 OPEN - Rolling Applications
+**Deadline:** Rolling (approved on ongoing basis)
+**Global Eligibility:** ✅ YES (International)
+**Equity:** Non-dilutive
 
 **Funding:**
-- Micro-grants: 1-5 ETH (~$3,000-$15,000 USD at current rates)
-- Subject to adjustment
+- **Standard Grants:** $20,000 - $150,000 USD in ARB tokens
+- **Stylus Sprint:** 5M ARB for Rust/C++ development
+- **Gaming Catalyst:** $190M budget for gaming (100 projects over 3 years)
+- **AI Agents Initiative:** $1M for AI agents on Arbitrum
 
 **Acceptance Requirements:**
-- **Must have LIVE MVP on Base blockchain**
-- Building on Base L2 network
-- Self-nomination or community nomination
-- Functional product required
+- Building on Arbitrum (L2 Ethereum)
+- Milestone-based funding structure
+- Focus areas: dApps, Infrastructure, Tools, Gaming, AI
 
-**What to Build:**
-1. **DeFi Applications** - DEX, lending, staking on Base
-2. **NFT Platforms** - Marketplaces, creator tools
-3. **Social DApps** - Web3 social networks
-4. **Gaming** - On-chain games, play-to-earn
-5. **Tools & Infrastructure** - Block explorers, wallets
+**What to Build (Global Ideas):**
+1. **Stylus DApps** - Smart contracts in Rust/C++ (faster, cheaper than Solidity)
+2. **DeFi Protocols** - Leverage Arbitrum's low fees for complex DeFi
+3. **On-chain Gaming** - Full games on Arbitrum (low gas costs)
+4. **AI Agents** - Autonomous agents that interact with blockchain
+5. **Cross-chain Bridges** - Connect Arbitrum to other ecosystems
+6. **Developer Tools** - SDKs, testing frameworks for Arbitrum
 
-**Niche Ideas for Bangladesh:**
-1. **Base + Freelance Platform** - Upwork/Fiverr competitor on Base
-2. **Remittance Layer** - Fast, cheap international transfers on Base
-3. **NFT Marketplace for BD Artists** - Showcase local digital art
-4. **Micro-Insurance on Base** - Parametric insurance for farmers
-5. **Education Credentials** - Blockchain certificates for students
+**Why This Matters:**
+- Arbitrum is one of the leading L2s
+- Large budget across multiple tracks
+- Gaming focus is rare in crypto grants
+- AI agents track is cutting-edge
 
-**Feasibility:** ⭐⭐⭐⭐ (4/5)
-- Requires working MVP (more effort upfront)
-- Must learn Base/Ethereum development
+**Feasibility:** ⭐⭐⭐⭐⭐ (5/5)
+- Multiple tracks to choose from
+- Milestone-based (reduces risk)
 - No equity taken
-- Gas fees lower than Ethereum mainnet
+- Active ecosystem
 
-**Application Process:** Self-nominate at Base website
-
-**Next Steps:**
-- [ ] Learn Solidity/Base development
-- [ ] Build and deploy MVP on Base testnet
-- [ ] Deploy to Base mainnet
-- [ ] Get some users/traction
-- [ ] Submit nomination
+**Application Link:** https://arbitrum.foundation/grants
 
 ---
 
-#### 4. **Sui Foundation Grants**
+#### 4. **Solana Foundation Grants**
 **Status:** 🟢 OPEN - Rolling Applications
-**Deadline:** Rolling
-**Bangladesh Eligible:** ✅ YES (International developers)
+**Deadline:** Rolling basis
+**Global Eligibility:** ✅ YES (Anyone worldwide)
+**Equity:** Non-dilutive (standard grants) + Convertible grants available
 
 **Funding:**
-- Typical range: $30,000-$40,000 USD
+- **Standard Grants:** Variable (community projects, education)
+- **Mobile Builder Grants:** $10,000 per team + marketing support
+- **Actions & Blinks Tooling:** Up to $400K total available
+- **Convertible Grants:** For strategic projects (takes future equity)
+
+**Acceptance Requirements:**
+- Anyone can apply (individuals, teams, companies, nonprofits, universities)
+- Focus on open-source and public goods
+- Preference for projects that benefit the broader Solana ecosystem
+
+**What to Build (Global Ideas):**
+1. **Solana Mobile dApps** - Apps for Solana Saga phone / dApp Store
+2. **Actions & Blinks** - Tools for Solana Actions (blockchain links)
+3. **DeFi on Solana** - High-speed DEX, lending, derivatives
+4. **NFT Infrastructure** - Compressed NFTs, marketplaces, tools
+5. **Payment Solutions** - Solana Pay integrations, merchant tools
+6. **Developer SDKs** - Multi-language SDKs for Solana development
+
+**Why This Matters:**
+- Solana is one of the fastest blockchains (high TPS)
+- Strong mobile focus (Saga phone, dApp store)
+- Actions & Blinks are innovative primitives
+- Active ecosystem with high transaction volume
+
+**Feasibility:** ⭐⭐⭐⭐⭐ (5/5)
+- Rolling applications
+- Multiple grant tracks
+- No equity for standard grants
+- Fast blockchain enables new use cases
+
+**Application Link:** https://solana.org/grants
+
+---
+
+#### 5. **Sui Foundation Grants**
+**Status:** 🟢 OPEN - Rolling Applications
+**Deadline:** Rolling
+**Global Eligibility:** ✅ YES (International developers)
+**Equity:** Non-dilutive
+
+**Funding:**
+- Typical range: $30,000 - $40,000 USD
 - Higher amounts for exceptional projects
 
 **Acceptance Requirements:**
-- Developers, builders, educators, academics, community members
 - Building on Sui blockchain
 - Clear project proposal with milestones
+- Developers, builders, educators, academics, community members
 
-**What to Build:**
-1. **DeFi Protocols** - Sui-native DeFi applications
-2. **NFT/Gaming** - Move-based games and NFT platforms
-3. **Developer Tools** - SDKs, APIs, documentation
-4. **Infrastructure** - Validators, indexers, RPCs
-5. **Education** - Sui/Move language tutorials
+**What to Build (Global Ideas):**
+1. **Move-based DeFi** - Leverage Move's safety for novel DeFi protocols
+2. **Gaming on Sui** - Object-centric model perfect for gaming assets
+3. **NFT Platforms** - Dynamic NFTs that change state on-chain
+4. **Developer Tooling** - Move language tools, IDEs, debuggers
+5. **Cross-chain Infrastructure** - Bridges connecting Sui to other chains
+6. **Educational Content** - Move programming courses, tutorials
 
-**Niche Ideas for Bangladesh:**
-1. **Move Language Bootcamp** - First Bengali Move programming course
-2. **Sui Wallet for Mobile** - User-friendly Sui wallet for BD users
-3. **Agricultural DApp** - Farm-to-table tracking on Sui
-4. **Freelancer Escrow** - Smart contract escrow for gig workers
-5. **Digital Identity** - KYC/identity verification on Sui
+**Why This Matters:**
+- Sui uses Move language (more secure than Solidity)
+- Object-centric model enables new design patterns
+- Backed by Mysten Labs (strong team)
+- Growing ecosystem
 
 **Feasibility:** ⭐⭐⭐⭐ (4/5)
-- Learn Move language (different from Solidity)
+- Need to learn Move (different from Solidity)
 - Strong grant amounts
 - Growing ecosystem
 - No equity taken
 
 **Application Link:** https://sui.io/grants
 
-**Next Steps:**
-- [ ] Research Sui blockchain and Move language
-- [ ] Identify unique use case for Sui's architecture
-- [ ] Create detailed proposal
-- [ ] Build PoC or prototype
-- [ ] Apply for grant
-
 ---
 
-### 🟡 **TIER 2: HIGH PRIORITY - Upcoming Deadlines**
-
----
-
-#### 5. **Ethereum Foundation Academic Grants Round 2025**
-**Status:** 🟡 APPLICATIONS OPEN
-**Deadline:** March 24, 2025 (23:59 AoE)
-**Application Window:** Opened January 20, 2025
-**Bangladesh Eligible:** ✅ YES (International researchers)
+#### 6. **Base Builder Grants (Coinbase)**
+**Status:** 🟢 OPEN - Rolling Nominations
+**Deadline:** Rolling (nomination-based)
+**Global Eligibility:** ✅ YES (International)
+**Equity:** Non-dilutive
 
 **Funding:**
-- Total pool: $2M USD
-- Individual grants: Variable (based on scope)
+- Micro-grants: 1-5 ETH (~$3,000-$15,000 USD)
+- Subject to adjustment based on market
 
 **Acceptance Requirements:**
-- Individual researchers with academic backgrounds
-- Research centers, universities, think tanks
-- Educators and other stakeholders interested in Ethereum research
-- Proposal in PDF format, written in English
-- Must include: project description, budget, timeline, applicant profile
+- **MUST have LIVE MVP on Base blockchain**
+- Building on Base L2 network (Ethereum L2 by Coinbase)
+- Self-nomination or community nomination
+- Functional product required
 
-**What to Research/Build:**
-1. **Scalability Research** - Layer 2 solutions, rollups
-2. **Cryptography** - Zero-knowledge proofs, privacy
-3. **Economics** - Tokenomics, MEV, mechanism design
-4. **Security** - Smart contract security, formal verification
-5. **Education** - Curriculum development, teaching materials
+**What to Build (Global Ideas):**
+1. **Consumer DApps** - Social apps, content platforms on Base
+2. **DeFi Building Blocks** - Lending, DEX, yield aggregators
+3. **NFT Tools** - Minting platforms, marketplaces, creator tools
+4. **Payment Solutions** - Fiat on/off-ramps using Coinbase integration
+5. **Gaming** - Onchain games leveraging Base's low costs
+6. **Developer Infrastructure** - Wallets, SDKs, analytics
 
-**Niche Ideas for Bangladesh:**
-1. **Research Paper: Blockchain for Bangladesh Remittances** - Economic impact study
-2. **MEV in Developing Markets** - Research on MEV impact in emerging economies
-3. **Blockchain Education Curriculum** - Design curriculum for BD universities
-4. **Smart Contract Security for Bengali Developers** - Security training materials
-5. **Web3 Adoption Barriers in South Asia** - Academic research
-
-**Feasibility:** ⭐⭐⭐ (3/5)
-- Requires academic background or affiliation
-- Research-focused (not just building)
-- Competitive but well-funded
-- Good for university professors/researchers
-
-**Application Link:** https://esp.ethereum.foundation/academic-grants
-
-**Next Steps:**
-- [ ] Develop research proposal (academic format)
-- [ ] Partner with local university if needed
-- [ ] Create detailed budget
-- [ ] Prepare timeline (6-24 months typical)
-- [ ] Submit before March 24, 2025
-
----
-
-#### 6. **CDP Spring Builder Grants 2025 (Coinbase)**
-**Status:** 🟡 UPCOMING
-**Deadline:** April 20, 2025
-**Application Window:** Opens March 12, 2025
-**Bangladesh Eligible:** ✅ YES (Likely - international)
-
-**Funding:**
-- 10 grants of $3,000 USD each
-- Total pool: $30,000 USD
-
-**Acceptance Requirements:**
-- Building with Coinbase Developer Platform (CDP)
-- Using CDP services (wallets, payments, commerce)
-- Working MVP or prototype preferred
-
-**What to Build:**
-1. **CDP-Integrated Apps** - Apps using Coinbase wallet SDK
-2. **Payment Solutions** - Crypto payment gateways
-3. **Web3 Onboarding** - Tools to onboard users to Web3
-4. **Commerce Apps** - E-commerce with crypto payments
-5. **Developer Tools** - Tools leveraging CDP APIs
-
-**Niche Ideas for Bangladesh:**
-1. **Crypto E-commerce Plugin** - WooCommerce/Shopify plugin for BD merchants
-2. **Freelancer Payment Tool** - Accept crypto payments from clients
-3. **Remittance Service** - Send money to BD using CDP
-4. **Educational Platform with CDP** - Online courses accepting crypto
-5. **Mobile Wallet Integration** - Coinbase wallet for BD mobile apps
+**Why This Matters:**
+- Base is backed by Coinbase (major exchange)
+- Tight integration with Coinbase products
+- Growing consumer crypto focus
+- Low gas fees enable new use cases
 
 **Feasibility:** ⭐⭐⭐⭐ (4/5)
-- Smaller grant amounts (less competitive)
-- Must use Coinbase platform (vendor lock-in)
-- Good for quick MVPs
+- Requires working MVP (more effort upfront)
+- Must deploy on Base mainnet
 - No equity taken
+- Gas fees lower than Ethereum mainnet
 
-**Next Steps:**
-- [ ] Research Coinbase Developer Platform
-- [ ] Create CDP account
-- [ ] Prototype idea using CDP tools
-- [ ] Prepare application materials
-- [ ] Apply when window opens (March 12)
+**Application:** Self-nominate at base.org
 
 ---
 
-#### 7. **ISIF Asia Grants (Next Round - 2026)**
-**Status:** 🔴 CLOSED for 2025 (Monitor for 2026)
-**Next Application:** Likely Q1 2026
-**Bangladesh Eligible:** ✅ YES (APNIC region member)
+#### 7. **AI Grant**
+**Status:** 🟢 OPEN - Rolling Applications
+**Deadline:** Rolling
+**Global Eligibility:** ✅ YES (Worldwide)
+**Equity:** Takes equity (uncapped SAFE)
 
 **Funding:**
-- Variable grants (previous round: $1.5M total across 29 projects)
-- One BD project funded in 2025: Community Wi-Fi cyclone warning system
+- $250,000 on uncapped SAFE
+- $350,000 in Azure credits
+- $250,000 in additional credits
+- Summit in San Francisco with advisors/founders
 
 **Acceptance Requirements:**
-- Public/private organizations, academia, non-profits, social enterprises
-- Located in APNIC service region (56 economies including Bangladesh)
-- Technology projects with social impact
-- Focus on internet development and access
+- AI-native product startups
+- Early-stage (idea to MVP)
+- Product-focused (not research)
 
-**What to Build:**
-1. **Community Internet** - Wi-Fi networks, mesh networks
-2. **Disaster Response Tech** - Early warning systems
-3. **Rural Connectivity** - Solutions for underserved areas
-4. **Digital Literacy** - Internet education programs
-5. **Accessibility Tools** - Tech for disabled populations
+**What to Build (Global Ideas):**
+1. **AI Agent Platforms** - Build/deploy autonomous AI agents
+2. **Vertical AI SaaS** - AI for specific industries (legal, medical, finance)
+3. **AI Developer Tools** - Code generation, testing, debugging with AI
+4. **AI Infrastructure** - Model serving, fine-tuning platforms, vector DBs
+5. **Multimodal AI Apps** - Combine text, image, video, audio
+6. **AI for Creators** - Content generation, editing, enhancement tools
 
-**Niche Ideas for Bangladesh:**
-1. **Flood Early Warning + Internet** - IoT sensors with community Wi-Fi
-2. **Rural Education Internet** - Free Wi-Fi for schools
-3. **Fisherman Safety Network** - Maritime internet + weather alerts
-4. **Digital Health Kiosks** - Telemedicine with internet access
-5. **E-governance Connectivity** - Internet for government services
+**Why This Matters:**
+- Significant funding ($250K cash + $600K credits)
+- AI-focused community and mentorship
+- Access to latest AI tools and models
+- Summit with top AI founders
+
+**Feasibility:** ⭐⭐⭐⭐ (4/5)
+- Takes equity (uncapped SAFE)
+- Highly competitive
+- AI-native focus required
+- Generous credit package
+
+**Application Link:** https://aigrant.com/
+
+---
+
+### 🟡 **TIER 2: TIME-SENSITIVE OPPORTUNITIES**
+
+These have upcoming deadlines - apply soon!
+
+---
+
+#### 8. **Polygon Community Grants Season 2**
+**Status:** 🟡 OPEN - Closes Soon
+**Deadline:** April 15, 2025
+**Global Eligibility:** ✅ YES (International)
+**Equity:** Non-dilutive
+
+**Funding:**
+- Total pool: 35M POL (~$20M USD)
+- Individual grants: Variable by track
+- Direct Track: Up to 20M POL available
+
+**Focus Areas (Season 2):**
+1. **Artificial Intelligence (AI)** - AI + blockchain integration
+2. **DePIN** - Decentralized Physical Infrastructure Networks
+3. **Memecoin** - Community-driven meme tokens
+4. **Direct Track** - Ideas that don't fit predefined themes
+
+**What to Build (Global Ideas):**
+1. **AI + Blockchain Hybrid** - AI models on-chain, verifiable AI
+2. **DePIN Projects** - Decentralized wireless, compute, storage networks
+3. **Gaming on Polygon** - Leverage zkEVM for scalable gaming
+4. **DeFi on Polygon** - Multi-chain DeFi protocols
+5. **NFT Innovations** - Dynamic NFTs, new primitives
+6. **Creator Economy** - Tools for web3 creators
+
+**Grant Allocators:**
+- Eliza Labs (ai16z) - AI focus
+- Crossmint - NFTs & payments
+- IoTeX - DePIN
+- Thrive Protocol
+- Gitcoin - Public goods
+
+**Why This Matters:**
+- Largest grant pool: 35M POL
+- AI focus is cutting-edge (AI + crypto)
+- DePIN is emerging sector
+- Multiple allocators = more opportunities
 
 **Feasibility:** ⭐⭐⭐⭐⭐ (5/5)
-- Strong Bangladesh focus (already funded BD project)
-- Social impact angle (aligns with BD needs)
+- Large budget
+- Multiple themes
 - No equity taken
-- BUT: Wait until 2026 for next round
+- 5 months remaining
 
-**Next Steps:**
-- [ ] Monitor APNIC Foundation website for 2026 announcement
-- [ ] Develop project concept focused on social impact
-- [ ] Partner with local NGOs if applicable
-- [ ] Prepare detailed proposal
-- [ ] Apply when window opens (~April 2026)
+**Application Link:** https://polygon.technology/grants
 
 ---
 
-### 🔴 **TIER 3: LOWER PRIORITY - Feasibility Concerns**
-
----
-
-#### 8. **Techstars Web3 Accelerator**
-**Status:** 🟡 Spring 2025 cohort started March 2025
-**Next Cohort:** Fall 2025 or Spring 2026
-**Bangladesh Eligible:** ⚠️ CHALLENGING
+#### 9. **Filecoin Builder Next Step Grants**
+**Status:** 🟡 OPEN
+**Deadline:** April 30, 2025
+**Global Eligibility:** ✅ YES (International)
+**Equity:** Non-dilutive
 
 **Funding:**
-- $120,000 for 6% equity
-- $20,000 cash + $100,000 convertible note
+- $5,000 - $10,000 USD
+- For projects taking "next step" on Filecoin
 
-**Challenges for Bangladesh:**
-- 13-week intensive program
-- May require relocation (or Techstars Anywhere for Americas timezone)
-- Techstars Anywhere focuses on American timezones
-- Time zone differences (Bangladesh is opposite US hours)
-- Takes equity (dilutive)
+**Focus Areas:**
+1. **Storage Solutions** - Data onboarding tools, storage markets
+2. **Retrieval** - Fast retrieval solutions for Filecoin data
+3. **FVM (Filecoin Virtual Machine)** - Smart contracts on Filecoin
+4. **Integrations** - Filecoin integration into existing tools/platforms
+5. **Developer Tooling** - SDKs, APIs, documentation
 
-**Feasibility:** ⭐⭐ (2/5)
-- Difficult timezone coordination
-- May require travel/relocation
-- Takes equity
-- Highly competitive (~10% acceptance)
+**What to Build (Global Ideas):**
+1. **Decentralized Storage Apps** - Dropbox alternatives using Filecoin
+2. **NFT Storage** - Store NFT metadata on Filecoin (permanent)
+3. **Data DAOs** - Collective data storage and monetization
+4. **Web3 Hosting** - Host websites/apps on Filecoin
+5. **Video Platforms** - Decentralized YouTube using Filecoin
+6. **Archival Solutions** - Long-term data preservation
 
-**Recommendation:** Only apply if you can commit to:
-- Working US hours from Bangladesh, OR
-- Relocating to program location for 13 weeks
+**Why This Matters:**
+- Filecoin is leading decentralized storage
+- FVM enables smart contracts (new opportunities)
+- Storage is fundamental infrastructure
+- Integration opportunities with Web2 tools
+
+**Feasibility:** ⭐⭐⭐⭐ (4/5)
+- Smaller grant size (less competitive)
+- Clear focus areas
+- No equity taken
+- 5 months to apply
+
+**Application Link:** https://fil.org/grants
 
 ---
 
-#### 9. **Startup Wise Guys Web3 Accelerator**
-**Status:** Rolling applications
-**Bangladesh Eligible:** ⚠️ UNCERTAIN (Europe-focused)
+#### 10. **WEMIX Blockchain Grants**
+**Status:** 🟡 OPEN
+**Deadline:** December 31, 2025
+**Global Eligibility:** ✅ YES (International)
+**Equity:** Non-dilutive
 
 **Funding:**
-- €150K convertible (€115K cash + €35K program)
-- €250K follow-on possibility
+- Variable (not specified in search results)
+- Focus on gaming and Web3 projects
 
-**Challenges:**
-- European program (Estonia-based)
-- Likely requires relocation
-- Takes equity
-- Unknown Bangladesh/Asia remote policy
+**Focus Areas:**
+- Gaming on WEMIX
+- DeFi protocols
+- NFT platforms
+- Web3 infrastructure
 
-**Feasibility:** ⭐⭐ (2/5)
+**What to Build (Global Ideas):**
+1. **Blockchain Games** - Play-to-earn, MMORPGs on WEMIX
+2. **Gaming Infrastructure** - Marketplaces, guilds, tools
+3. **DeFi for Gamers** - Game asset lending, yield farming
+4. **Cross-game Assets** - NFTs usable across multiple games
 
-**Recommendation:** Contact program directly to confirm remote/Asia eligibility before applying.
+**Why This Matters:**
+- WEMIX is gaming-focused blockchain
+- Gaming + crypto is growing sector
+- 1.5 months remaining to apply
 
----
+**Feasibility:** ⭐⭐⭐ (3/5)
+- Gaming focus (niche)
+- Shorter deadline
+- Less information available
+- Smaller ecosystem than others
 
-## 📋 APPLICATION PRIORITY RANKING
-
-### **IMMEDIATE ACTION (Apply in Next 30 Days):**
-
-1. ✅ **Google for Startups Cloud Program** - Start application TODAY
-2. ✅ **Ethereum ESP Small Grants** - Prepare proposal this week
-3. ✅ **Sui Foundation Grants** - Research and apply this month
-
-### **NEAR-TERM (Next 1-3 Months):**
-
-4. ⏰ **CDP Spring Builder Grants** - Applications open March 12
-5. ⏰ **Ethereum Academic Grants** - Deadline March 24
-6. ⏰ **Base Builder Grants** - Build MVP first, then nominate
-
-### **FUTURE MONITORING:**
-
-7. 👁️ **ISIF Asia 2026** - Monitor for Q1 2026 announcement
-8. 👁️ **Techstars** - Only if willing to relocate/work US hours
+**Application:** Contact via WEMIX website
 
 ---
 
-## 🎯 RECOMMENDED PROJECT IDEAS BY EFFORT LEVEL
-
-### **LOW EFFORT (Can build MVP in 2-4 weeks):**
-
-1. **Bengali Crypto Education Website**
-   - Platform: YouTube + Website
-   - Apply to: Ethereum ESP, Sui Foundation
-   - Tech: Simple web app, video content
-   - Unique angle: First comprehensive Bengali crypto education
-
-2. **Smart Contract Template Library**
-   - Platform: GitHub + Documentation site
-   - Apply to: Ethereum ESP, Base Grants
-   - Tech: Solidity templates, docs
-   - Unique angle: Audited, beginner-friendly contracts
-
-3. **Crypto Payment Plugin for BD E-commerce**
-   - Platform: WooCommerce/Shopify plugin
-   - Apply to: CDP Builder Grants, Base Grants
-   - Tech: JavaScript, Web3.js
-   - Unique angle: Optimized for Bangladeshi merchants
-
-### **MEDIUM EFFORT (Can build MVP in 1-3 months):**
-
-4. **Freelancer Escrow DApp**
-   - Platform: Web app + Smart Contracts
-   - Apply to: Ethereum ESP, Sui Foundation, Base Grants
-   - Tech: React + Solidity/Move
-   - Unique angle: Designed for Upwork/Fiverr-style gigs
-   - Market: 650K+ Bangladeshi freelancers
-
-5. **Remittance DApp**
-   - Platform: Mobile + Web app
-   - Apply to: Ethereum ESP, Base Grants
-   - Tech: React Native + Smart Contracts
-   - Unique angle: Bangladesh receives $22B+ in remittances annually
-   - Impact: Lower fees than traditional services (Western Union, etc.)
-
-6. **Agri-Tech AI + Blockchain**
-   - Platform: Mobile app + IoT
-   - Apply to: Google Cloud Program, Ethereum ESP
-   - Tech: TensorFlow + Blockchain
-   - Unique angle: Crop disease detection + supply chain tracking
-   - Market: 41% of BD workforce in agriculture
-
-### **HIGH EFFORT (3-6 months for MVP):**
-
-7. **Web3 Freelance Marketplace**
-   - Platform: Full marketplace (Web + Mobile)
-   - Apply to: Google Cloud, Ethereum ESP, Base Grants (stack multiple)
-   - Tech: Next.js + Smart Contracts + IPFS
-   - Unique angle: Compete with Upwork but Web3-native
-   - Market: Massive BD freelance market
-
-8. **DeFi Micro-Lending Protocol**
-   - Platform: DeFi protocol + Web interface
-   - Apply to: Ethereum ESP, Sui Foundation
-   - Tech: Solidity + React + Oracle integration
-   - Unique angle: Serve unbanked/underbanked in Bangladesh
-   - Market: 50%+ of BD population unbanked
-
-9. **Supply Chain Platform for Garment Industry**
-   - Platform: Enterprise Web App + Blockchain
-   - Apply to: Ethereum ESP, Google Cloud
-   - Tech: React + Ethereum/Hyperledger + IoT
-   - Unique angle: Track BD garment exports ($40B+ industry)
-   - Market: 2nd largest garment exporter globally
+### 🌟 **TIER 3: SPECIALIZED OPPORTUNITIES**
 
 ---
 
-## 💡 STRATEGIC RECOMMENDATIONS FOR BANGLADESH FOUNDERS
+#### 11. **Optimism RetroPGF 7 (Retroactive Public Goods Funding)**
+**Status:** 🟢 OPEN - Ongoing Program
+**Timeline:** Started January 16, 2025 (ongoing throughout year)
+**Global Eligibility:** ✅ YES (International)
+**Equity:** Non-dilutive
 
-### **Leverage Bangladesh-Specific Advantages:**
+**How It Works:**
+- Build first, get funded later (retroactive)
+- Rolling application windows (can join at regular intervals)
+- Rewards distributed quarterly/monthly/weekly
+- Metrics-driven + human evaluation
 
-1. **Remittance Market**: $22B+ annually - huge opportunity
-2. **Freelance Economy**: 650K+ freelancers, 2nd largest on Upwork
-3. **Garment Industry**: $40B+ exports - supply chain transparency
-4. **Unbanked Population**: 50%+ - DeFi opportunity
-5. **Agricultural Economy**: 41% workforce - agri-tech + blockchain
-6. **Growing Tech Scene**: Vibrant startup ecosystem in Dhaka
+**2025 Focus Areas:**
+- **Dev Tooling** - Compilers, libraries, debuggers
+- **Onchain Builders** - Projects growing Superchain economy
 
-### **Address Common Concerns:**
+**What to Build (Global Ideas):**
+1. **Developer Tools** - Open-source tools for Optimism/Superchain
+2. **Public Goods** - Infrastructure benefiting entire ecosystem
+3. **Educational Content** - Tutorials, courses, documentation
+4. **Research** - Technical research advancing Optimism
+5. **Community Projects** - Governance tools, analytics, explorers
 
-**Q: Will being from Bangladesh hurt my chances?**
-A: NO! Many programs explicitly welcome underrepresented regions. Ethereum ESP specifically mentions this as a plus.
+**Why This Matters:**
+- Retroactive = no upfront promises, just build
+- Ongoing rewards (not one-time)
+- Focus on public goods (mission-aligned)
+- Superchain is multi-chain vision
 
-**Q: Do I need a company registered in Bangladesh?**
-A: Not usually for grants. Most accept individual developers. Check specific requirements.
+**Feasibility:** ⭐⭐⭐⭐ (4/5)
+- Retroactive (build first, apply later)
+- Must create public goods
+- Ongoing program (no single deadline)
+- No equity taken
 
-**Q: Can I work remotely?**
-A: YES for all Tier 1 & 2 programs. Only accelerators (Techstars, etc.) may require relocation.
+**Application Link:** https://retrofunding.optimism.io/
 
-**Q: What about timezone differences?**
-A: Not an issue for grants. Only matters for synchronous accelerators.
+---
 
-**Q: Do I need to have existing traction?**
-A: Preferred but not always required. Google and ESP accept early-stage. Base requires live MVP.
+## 🚫 EXCLUDED OPPORTUNITIES (Not Currently Available)
 
-### **Success Tips:**
+### Programs with **Past Deadlines** (as of Nov 17, 2025):
+- ❌ **Y Combinator Winter 2026** - Deadline: November 10, 2025 (passed)
+- ❌ **a16z CSX Spring 2025** - Deadline: February 7, 2025 (passed)
+- ❌ **Ethereum Academic Grants** - Deadline: March 24, 2025 (passed)
+- ❌ **Avalanche Gitcoin Rounds** - Deadline: February 18, 2025 (passed)
 
-1. **Start with Google Cloud** - Easiest to get approved, no equity
-2. **Build in public** - Document your journey on Twitter/LinkedIn
-3. **Focus on local problems** - Solve Bangladesh-specific issues
-4. **Stack multiple grants** - Apply to several programs for same project
-5. **Join communities** - Ethereum Bangladesh, Base Discord, etc.
-6. **Open source everything** - Increases grant approval chances
-7. **Show impact** - Quantify how many users/beneficiaries you'll help
+### Programs **Not Yet Open** (as of Nov 17, 2025):
+- ⏸️ **CDP Spring Builder Grants** - Opens: March 12, 2025
+- ⏸️ **ISIF Asia 2026** - Opens: ~Q1 2026
+
+---
+
+## 🎯 GLOBAL PROJECT IDEAS BY CATEGORY
+
+### **AI + Blockchain (Hottest Trend)**
+
+1. **Verifiable AI Inference** - Prove AI model outputs using ZK-proofs
+2. **Decentralized AI Training** - Federated learning with blockchain incentives
+3. **AI Agent Marketplaces** - Buy/sell AI agents as NFTs
+4. **On-chain AI Models** - Run small models directly on blockchain
+5. **AI-powered DeFi** - Trading algorithms, risk assessment, automation
+6. **Content Authenticity** - Verify human vs AI-generated content
+
+**Best Grants:** Polygon AI Track, Arbitrum AI Agents, AI Grant, Google Cloud
+
+---
+
+### **DeFi 2.0 (Still Hot)**
+
+1. **Cross-chain DEX Aggregator** - Best prices across all chains
+2. **Intent-based Trading** - Users specify outcome, solvers compete
+3. **Real-world Asset (RWA) Protocols** - Tokenize bonds, real estate, commodities
+4. **Under-collateralized Lending** - Credit scores on-chain
+5. **Derivatives on L2s** - Leverage Arbitrum/Base low fees
+6. **Yield Automation** - Auto-compound, auto-rebalance strategies
+
+**Best Grants:** Ethereum ESP, Arbitrum, Base, Sui, Solana
+
+---
+
+### **Infrastructure & Developer Tools**
+
+1. **Multi-chain Indexer** - Query data across all blockchains
+2. **Smart Contract Testing Frameworks** - Fuzzing, formal verification
+3. **Wallet SDKs** - Embedded wallets for apps
+4. **Gas Optimization Tools** - Analyze & reduce smart contract gas
+5. **Cross-chain Messaging** - Universal messaging protocol
+6. **Blockchain Monitoring** - Uptime, performance, security alerts
+
+**Best Grants:** Ethereum ESP, Arbitrum, Optimism RetroPGF, Filecoin
+
+---
+
+### **Gaming & Metaverse**
+
+1. **Fully On-chain Games** - Entire game logic on blockchain
+2. **Cross-game Asset Standards** - NFTs usable across games
+3. **Gaming SDKs** - Unity/Unreal Engine blockchain integration
+4. **Esports Betting Platforms** - Decentralized, provably fair
+5. **Virtual World Infrastructure** - Land, avatars, physics engines
+6. **Play-and-earn (not P2E)** - Sustainable game economics
+
+**Best Grants:** Arbitrum Gaming Catalyst, WEMIX, Solana, Sui
+
+---
+
+### **DePIN (Decentralized Physical Infrastructure)**
+
+1. **Wireless Networks** - Decentralized 5G, WiFi (like Helium)
+2. **Compute Networks** - Distributed GPUs for AI training
+3. **Storage Networks** - Decentralized Dropbox/Google Drive
+4. **Sensor Networks** - IoT data markets
+5. **Energy Grids** - P2P energy trading
+6. **Mobility Networks** - Decentralized Uber/Lyft
+
+**Best Grants:** Polygon DePIN Track, Filecoin, Solana
+
+---
+
+### **Privacy & Security**
+
+1. **Privacy-preserving DeFi** - ZK-rollups for private transactions
+2. **Encrypted Data Markets** - Trade data without revealing it
+3. **Anonymous Credentials** - Prove eligibility without revealing identity
+4. **Secure Messaging** - Blockchain-based Signal alternative
+5. **Private Voting** - Anonymous, verifiable governance
+6. **ZK-proof Tools** - Developer-friendly ZK libraries
+
+**Best Grants:** Ethereum ESP, Optimism, Arbitrum
+
+---
+
+## 📋 STRATEGIC RECOMMENDATIONS
+
+### **For AI Founders:**
+
+1. **Start with Google Cloud** ($350K credits) → Build MVP
+2. **Apply to AI Grant** ($250K + $600K credits) → Get funding + community
+3. **Deploy on Polygon AI Track** (35M POL available) → Get grants
+4. **Use Arbitrum AI Agents** ($1M fund) → Specialize in on-chain AI
+
+**Stack potential:** $1M+ in funding + credits without dilution (except AI Grant SAFE)
+
+---
+
+### **For Web3 Infrastructure Builders:**
+
+1. **Start with Ethereum ESP** (up to $250K) → Build core infrastructure
+2. **Deploy on Arbitrum** ($20K-$150K) → Get ecosystem grant
+3. **Apply to Optimism RetroPGF** (ongoing) → Retroactive funding
+4. **Integrate Filecoin** ($5K-$10K) → Storage component
+
+**Stack potential:** $300K-$400K+ non-dilutive funding
+
+---
+
+### **For DeFi Builders:**
+
+1. **Choose chain:** Base (consumer), Arbitrum (complex DeFi), Sui (safety)
+2. **Get Google Cloud credits** → Infrastructure costs covered
+3. **Apply to chain-specific grant** → $30K-$150K funding
+4. **Build open-source** → Qualify for Optimism RetroPGF
+
+**Stack potential:** $200K-$500K non-dilutive funding
+
+---
+
+### **For Gaming Builders:**
+
+1. **Apply to Arbitrum Gaming Catalyst** ($190M budget, 100 projects)
+2. **Get Google Cloud credits** → Game servers, AI NPCs
+3. **Deploy on Solana** (fast TPS) or WEMIX (gaming-focused)
+4. **Apply to Sui** (object model perfect for game assets)
+
+**Stack potential:** $50K-$2M depending on project scale
 
 ---
 
 ## 📊 APPLICATION TRACKER TEMPLATE
 
-| Program | Status | Deadline | Applied Date | Decision Date | Amount | Notes |
-|---------|--------|----------|--------------|---------------|--------|-------|
-| Google Cloud | Not Started | Rolling | - | - | $200-350K credits | Priority #1 |
-| Ethereum ESP | Not Started | Rolling | - | - | $30K+ | Priority #2 |
-| Sui Foundation | Not Started | Rolling | - | - | $30-40K | Priority #3 |
-| Base Grants | Not Started | Rolling | - | - | 1-5 ETH | Need MVP first |
-| CDP Spring | Not Started | Apr 20, 2025 | - | - | $3K | Opens Mar 12 |
-| ETH Academic | Not Started | Mar 24, 2025 | - | - | Variable | If academic |
-| ISIF Asia | Monitoring | ~Q1 2026 | - | - | Variable | Wait for 2026 |
+| Program | Deadline | Amount | Status | Applied | Decision | Notes |
+|---------|----------|--------|--------|---------|----------|-------|
+| Google Cloud | Rolling | $350K credits | 🔴 Not Started | - | - | Priority #1 |
+| Ethereum ESP | Rolling | $30-250K | 🔴 Not Started | - | - | Priority #2 |
+| Arbitrum | Rolling | $20-150K | 🔴 Not Started | - | - | Gaming/AI tracks |
+| Solana | Rolling | $10K+ | 🔴 Not Started | - | - | Mobile focus |
+| Base | Rolling | 1-5 ETH | 🔴 Not Started | - | - | Need MVP first |
+| Sui | Rolling | $30-40K | 🔴 Not Started | - | - | Learn Move |
+| AI Grant | Rolling | $250K | 🔴 Not Started | - | - | Takes equity |
+| Polygon S2 | Apr 15, 2025 | Variable | 🔴 Not Started | - | - | AI/DePIN focus |
+| Filecoin | Apr 30, 2025 | $5-10K | 🔴 Not Started | - | - | Storage focus |
+| WEMIX | Dec 31, 2025 | Variable | 🔴 Not Started | - | - | Gaming focus |
+| Optimism RetroPGF | Ongoing | Variable | 🔴 Not Started | - | - | Build first |
 
 ---
 
-## 📞 NEXT ACTIONS CHECKLIST
+## 🚀 4-WEEK ACTION PLAN
 
-### Week 1 (Immediate):
-- [ ] Choose 1-2 project ideas from recommended list
+### **Week 1: Foundation**
+- [ ] Choose your niche (AI, DeFi, Gaming, Infrastructure)
+- [ ] Research 3-5 relevant grant programs
 - [ ] Create Google Cloud Billing Account
 - [ ] Apply to Google for Startups Cloud Program
-- [ ] Join Ethereum Bangladesh community
-- [ ] Set up GitHub repos for open-source projects
+- [ ] Join Discord/Telegram communities for chosen chains
+- [ ] Set up GitHub organization (make everything open-source)
 
-### Week 2-4:
-- [ ] Write detailed Ethereum ESP proposal
-- [ ] Research Sui blockchain and Move language
-- [ ] Build simple MVP or prototype
-- [ ] Create demo video (3-5 minutes)
-- [ ] Submit Ethereum ESP application
+### **Week 2: Planning**
+- [ ] Define your MVP (minimum viable product)
+- [ ] Write project proposal (use for multiple grants)
+- [ ] Create pitch deck (2-5 slides)
+- [ ] Set up development environment
+- [ ] Start building MVP or prototype
+- [ ] Document publicly (Twitter, blog, GitHub)
 
-### Month 2-3:
-- [ ] Deploy MVP on Base testnet
-- [ ] Get initial users/feedback
-- [ ] Prepare CDP Builder Grants application materials
-- [ ] Write Sui Foundation grant proposal
-- [ ] Apply when ready
+### **Week 3: Building**
+- [ ] Continue building MVP
+- [ ] Apply to Ethereum ESP or chosen chain grant
+- [ ] Join relevant hackathons (practice pitching)
+- [ ] Get early user feedback
+- [ ] Refine proposal based on feedback
 
-### Ongoing:
-- [ ] Monitor ISIF Asia for 2026 announcements
-- [ ] Build community around your project
-- [ ] Document everything publicly
-- [ ] Network with other Web3 builders in Bangladesh
-- [ ] Consider attending ETHGlobal online hackathons
+### **Week 4: Deploying**
+- [ ] Deploy MVP to testnet
+- [ ] Create demo video (3-5 min)
+- [ ] Submit to 2-3 additional grants
+- [ ] Deploy to mainnet (if ready)
+- [ ] Start building community
+
+---
+
+## 💡 PRO TIPS FOR SUCCESS
+
+### **Application Strategy:**
+1. **Apply to multiple grants for same project** - Stack funding sources
+2. **Start with non-dilutive grants** - Keep equity before raising VC
+3. **Build in public** - Tweet progress, write blogs, stream coding
+4. **Make everything open-source** - Increases grant approval rates
+5. **Focus on public goods** - Benefits entire ecosystem = more funding
+
+### **Writing Winning Proposals:**
+1. **Problem first** - What global problem are you solving?
+2. **Why blockchain/AI?** - Why is this solution better than Web2?
+3. **Traction matters** - Users > GitHub stars > nothing
+4. **Clear milestones** - Break project into 3-6 month chunks
+5. **Budget transparency** - Show exactly how you'll spend funds
+6. **Team credibility** - Highlight relevant experience
+
+### **Common Mistakes to Avoid:**
+1. ❌ Applying with just an idea (build prototype first)
+2. ❌ Closed-source projects (grants prefer open-source)
+3. ❌ Copying existing projects (show innovation)
+4. ❌ Unrealistic timelines (under-promise, over-deliver)
+5. ❌ Ignoring community (engage on Discord/Telegram)
+6. ❌ Asking for too much too soon (start with small grant)
 
 ---
 
 ## 🌐 USEFUL RESOURCES
 
-### Bangladesh Web3 Communities:
-- Ethereum Bangladesh (Facebook/Telegram)
-- Bangladesh Blockchain Community
-- Dhaka Developer Meetups
+### **Learning Resources:**
+- **Ethereum:** https://ethereum.org/en/developers/
+- **Solidity:** https://docs.soliditylang.org/
+- **Move (Sui):** https://docs.sui.io/
+- **Rust (Solana):** https://www.rust-lang.org/learn
+- **AI/ML:** https://course.fast.ai/
 
-### Learning Resources:
-- **Ethereum**: https://ethereum.org/en/developers/
-- **Solidity**: https://docs.soliditylang.org/
-- **Base**: https://docs.base.org/
-- **Sui/Move**: https://docs.sui.io/
+### **Grant Writing:**
+- Ethereum ESP Guide: https://esp.ethereum.foundation/applicants
+- Y Combinator Startup School: https://www.startupschool.org/ (free)
+- Gitcoin Grants Guide: https://support.gitcoin.co/
 
-### Application Help:
-- **Grant Writing**: https://esp.ethereum.foundation/applicants
-- **Pitch Decks**: YC Startup School (free)
-- **Web3 Communities**: Discord servers for each protocol
+### **Communities:**
+- **Ethereum:** r/ethdev, Ethereum Magicians
+- **Solana:** Solana Discord, r/solana
+- **Arbitrum:** Arbitrum Discord
+- **AI:** r/LocalLLaMA, AI alignment forums
+
+### **Tools:**
+- **Pitch Decks:** Canva, Pitch, Beautiful.ai
+- **Demo Videos:** Loom, OBS Studio
+- **Project Management:** Linear, Notion, GitHub Projects
 
 ---
 
 ## 📈 SUCCESS METRICS TO TRACK
 
-For grant applications, prepare these metrics:
+Before applying to grants, prepare answers for these:
 
-1. **Market Size**: How many people have this problem in Bangladesh?
-2. **Unique Solution**: Why blockchain/AI? Why now?
-3. **Traction**: Users, GitHub stars, community size
-4. **Team**: Your background, commitment, skills
-5. **Budget**: Detailed breakdown of grant usage
-6. **Timeline**: Realistic milestones (3, 6, 12 months)
-7. **Impact**: How many people will benefit?
-
----
-
-## 🎓 FINAL RECOMMENDATIONS
-
-**Best Path for Most Founders:**
-
-1. **Month 1**: Get Google Cloud credits → Build MVP using free credits
-2. **Month 2**: Apply to Ethereum ESP → Fund continued development
-3. **Month 3**: Deploy to Base/Sui → Apply for ecosystem grants
-4. **Month 4-6**: Stack multiple grants → Build full product
-5. **Month 6+**: Raise VC funding with traction → Scale
-
-**Total Non-Dilutive Funding Potential:** $300K-$500K before taking any VC money!
+1. **Problem:** What specific global problem exists?
+2. **Solution:** How does your product solve it?
+3. **Market Size:** How many potential users exist globally?
+4. **Traction:** Current users, GitHub stars, community size
+5. **Differentiation:** What makes you 10x better than alternatives?
+6. **Team:** Why are you uniquely qualified to build this?
+7. **Milestones:** What will you achieve in 3, 6, 12 months?
+8. **Budget:** How will you spend the grant? (be specific)
+9. **Open Source:** Will you open-source the code? (say yes!)
+10. **Impact:** How will this benefit the broader ecosystem?
 
 ---
 
-**Good luck with your applications! 🚀**
+## 🎯 TOTAL FUNDING POTENTIAL
 
-*Questions? Reach out to respective program teams or join their Discord/Telegram communities.*
+**Conservative Path (6 months):**
+- Google Cloud: $350K in credits
+- Ethereum ESP: $50K
+- Chain-specific grant: $30K
+- **Total: $430K value** (no equity taken)
+
+**Aggressive Path (6 months):**
+- Google Cloud: $350K in credits
+- AI Grant: $250K + $600K credits (takes equity)
+- Ethereum ESP: $100K
+- Polygon S2: $50K
+- Arbitrum: $100K
+- Optimism RetroPGF: $30K
+- **Total: $1.48M value** (only AI Grant takes equity)
+
+**Gaming Path (12 months):**
+- Arbitrum Gaming Catalyst: $500K-$2M
+- Google Cloud: $350K in credits
+- Solana Mobile: $10K
+- **Total: $860K-$2.36M**
+
+---
+
+## 🔥 CURRENT HOTTEST OPPORTUNITIES (Nov 2025)
+
+**Top 3 to apply RIGHT NOW:**
+
+1. **Google for Startups Cloud** - Apply today (3-5 day decision)
+2. **Polygon Season 2** - 35M POL pool, AI + DePIN focus (5 months left)
+3. **Arbitrum AI Agents** - $1M fund, cutting-edge AI + crypto
+
+**Best ROI/Effort:**
+
+1. **Ethereum ESP** - $30K-$250K, rolling, no equity
+2. **Arbitrum Standard Grants** - $20K-$150K, rolling, no equity
+3. **Solana Foundation** - $10K+, rolling, no equity
+
+---
+
+## ✅ FINAL CHECKLIST BEFORE APPLYING
+
+- [ ] Have you built a prototype or MVP?
+- [ ] Is your code open-source on GitHub?
+- [ ] Do you have a 2-5 slide pitch deck?
+- [ ] Have you written a clear project proposal?
+- [ ] Do you have a demo video (3-5 min)?
+- [ ] Have you defined clear milestones (3-6 months)?
+- [ ] Do you have a detailed budget breakdown?
+- [ ] Have you joined the relevant Discord/Telegram?
+- [ ] Are you building in public (Twitter, blog)?
+- [ ] Have you gotten early user feedback?
+
+**If you answered YES to 7+, you're ready to apply!**
+
+---
+
+**Good luck building the future! 🚀**
+
+*Remember: The best time to apply was yesterday. The second-best time is today.*
+
+---
+
+**Questions?**
+- Reach out to program teams directly
+- Join their Discord/Telegram communities
+- Engage on Twitter/X with #buidl #grants
+- Check r/ethdev, r/solana, r/cryptocurrency for advice
